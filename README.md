@@ -1,3 +1,7 @@
+<h1 align="center">Привет всем, меня зовут Никита 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+
 ### Привет 👋 Меня зовут Никита
 
 [Telegram](https://t.me/sukhov_nikita)
