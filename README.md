@@ -1,11 +1,12 @@
 <h1 align="center">Привет всем, меня зовут Никита 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center"><a href="https://t.me/sukhov_nikita">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a></h3>
 
-### Привет 👋 Меня зовут Никита
-
-[Telegram](https://t.me/sukhov_nikita)
-
+<a href="https://t.me/sukhov_nikita">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
 ---
 
 ## О себе
