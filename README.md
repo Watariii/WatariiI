@@ -6,10 +6,7 @@
     </a>
 </h2>
 
-<p align="center"><a href="nikita.sukhov_rsce@mail.ru">nikita.sukhov_rsce@mail.ru</a></p>
-
-nikita.sukhov_rsce@mail.ru
-
+<p align="center">E-mail: nikita.sukhov_rsce@mail.ru</p>
 
 ## О себе
 Я Frontend-разработчик из России.
