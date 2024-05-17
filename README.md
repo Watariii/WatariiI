@@ -6,7 +6,7 @@
     </a>
 </h2>
 
-nikita.sukhov_rsce@mail.ru
+<a align="center">nikita.sukhov_rsce@mail.ru</a>
 
 
 ## О себе
