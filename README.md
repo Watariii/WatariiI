@@ -6,7 +6,7 @@
     </a>
 </h2>
 
-<p align="center">nikita.sukhov_rsce@mail.ru</p>
+<p align="center"><a href="nikita.sukhov_rsce@mail.ru">nikita.sukhov_rsce@mail.ru</a></p>
 
 nikita.sukhov_rsce@mail.ru
 
