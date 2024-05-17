@@ -4,11 +4,9 @@
     <a href="https://t.me/sukhov_nikita">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="veyronnike@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="nikita.sukhov_rsce@mail.ru">Почта</a>
 </h2>
+
+nikita.sukhov_rsce@mail.ru
 
 
 ## О себе
