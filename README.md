@@ -1,5 +1,5 @@
 <h1 align="center">Привет всем, меня зовут Никита 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/></h1>
 <h2 align="center">
     <a href="https://t.me/sukhov_nikita">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
