@@ -1,4 +1,4 @@
-<h1 align="center">Привет всем, меня зовут Никита 
+<h1 align="center">Привет всем, меня зовут Никита!
 <h2 align="center">
     <a href="https://t.me/sukhov_nikita">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
